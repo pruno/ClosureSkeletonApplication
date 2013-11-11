@@ -1,0 +1,4 @@
+ClosureSkeletonApplication
+==========================
+
+Documentation is fortcoming...
