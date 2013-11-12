@@ -50,7 +50,7 @@ def get_latest_version_url(package_name):
 
 
 def get_vendor_path():
-    return os.path.realpath(__file__ + '/../../../vendor')
+    return os.path.realpath(__file__ + '/../../../packages')
 
 
 def unzip_file(filepath, destination_dir):
